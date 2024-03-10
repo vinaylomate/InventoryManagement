@@ -42,7 +42,6 @@ git clone https://github.com/vinaylomate/InventoryManagement.git
 
 4. **Access the API**:
 
-- The API endpoints are available at `http://localhost:8080/api/`.
 - Here are some of the main API endpoints:
 
   - `GET /manage/get/productRegister/{companyId}/{productTypeId}/{productCategoryId}/{search:.+}/{pageNumber}/{pageSize}`: Retrieve all inventory items with pagination.
