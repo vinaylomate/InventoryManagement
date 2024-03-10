@@ -1,0 +1,1 @@
+"G:\LATESTPHPSERVER\php\php.exe" -f "G:\LATESTPHPSERVER\root\Dubai\InventorySoft\my_process.php"

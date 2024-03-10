@@ -1,0 +1,8 @@
+services:
+  postgres:
+    image: postgres
+    environment:
+      - POSTGRES_DB=rar
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=123
+      - SHMMAX=2147483648   # Set the desired shared memory size (in bytes)
